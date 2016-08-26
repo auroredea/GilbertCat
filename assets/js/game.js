@@ -71,7 +71,7 @@ var assetLoader = (function() {
 
   // sounds dictionary
   this.sounds      = {
-    'bg'            : 'assets/sound/bg.mp3',
+    'bg'            : 'assets/sound/sound.mp3',
     'jump'          : 'assets/sound/jump.mp3',
     'gameOver'      : 'assets/sound/gameOver.mp3'
   };
